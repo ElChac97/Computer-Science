@@ -1,5 +1,3 @@
-
-
 Proceso Par-Impar
     Escribir 'Ingresa numero';
     Leer numero;
