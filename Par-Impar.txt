@@ -1,0 +1,12 @@
+
+
+Proceso Par-Impar
+    Escribir 'Ingresa numero';
+    Leer numero;
+    Si numero % 2 = 0 Entonces
+        Escribir 'numero es Par'
+    Sino
+        Escribir 'numero es Impar'
+    FinSi
+FinProceso
+
